@@ -27,7 +27,7 @@ console.log(incr++, ++incr1, decr--, --decr1);
 console.log(2*4 === +"8"); // ==== для сторого сравнения по значению и по типу
 */
 
-const numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", "");
+/*const numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", "");
 
 const personalMovieDB =  {
     count: numberOfFilms,
@@ -45,4 +45,5 @@ const a = prompt("Один из последних просмотренных ф
 personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
-console.log(personalMovieDB.movies);
+console.log(personalMovieDB.movies);*/
+
